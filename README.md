@@ -16,11 +16,11 @@ https://example-workspace.slack.com/archives/C12345678/p123456789
 
 右クリック → メニュー
 
-Slack: example-workspace で開く
+Slack: abcd-workspace で開く
 
 開かれるURL（例）
 
-https://example-workspace.slack.com/archives/C12345678/p123456789
+https://abcd-workspace.slack.com/archives/C12345678/p123456789
 
 ※ workspace を Options で別の値にしている場合は、その値に置き換わります。
 
