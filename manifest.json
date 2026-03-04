@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Slack Preferred Workspace Opener",
+  "version": "1.0.0",
+  "description": "Right-click Slack archives links and open them in your preferred workspace subdomain.",
+  "permissions": ["contextMenus", "storage", "tabs"],
+  "background": {
+    "service_worker": "service_worker.js"
+  },
+  "options_page": "options.html"
+}
